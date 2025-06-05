@@ -41,7 +41,7 @@ A builder who’s not afraid to break, fix, and iterate
 
 
 ## 📂 Projects
-- [Terraform EC2 Setup](https://github.com/ChieloChi/Launching-EC2-instance-through-Terraform)
+- [Launching an EC2 Instance on AWS using Terraform](https://github.com/ChieloChi/Launching-EC2-instance-through-Terraform)
 - [Git SSH Key Tutorial](https://github.com/ChieloChi/Github-ssh-remote)
 - [AWS & Terraform Integration: IAM Setup, AWS CLI Installation & Configuration](https://www.linkedin.com/pulse/aws-terraform-integration-iam-setup-cli-installation-chiamaka-chielo-eo6hf?)
 - [Encrypting and Decrypting Data Using RSA Keys in AWS Cloud Shell](https://www.linkedin.com/pulse/practical-guide-encrypting-decrypting-data-using-rsa-keys-chielo-a9g2f?)
