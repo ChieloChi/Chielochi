@@ -10,7 +10,7 @@ If you're into cloud, security, or just learning from scratch, we probably have 
 
 A self-motivated learner with a bias for action
 
-Someone who values security from the start — not as an afterthought
+Someone who values security from the start, not as an afterthought
 
 A builder who’s not afraid to break, fix, and iterate
 
